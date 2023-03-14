@@ -15,6 +15,6 @@ A simple tic tac toe game made with vanilla javascript
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- CSS Flexbox
 - Javascript event handling
 - Array Methods
